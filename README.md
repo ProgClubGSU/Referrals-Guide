@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/images/embed_preview/banner.png" alt="Club Banner" width="100%">
+</p>
 ## PROGSU Guide on Referrals
 Built by students, for students — powered by [PROGSU](https://progsu.com), Georgia State’s tech club for builders, coders, and creators.
 ### _Prerequisites: Polished Referall + Linkedin_
