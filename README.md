@@ -16,7 +16,9 @@ But when someone inside a company vouches for you through the various methods we
 > **Stat Check:** Referred candidates are **4x more likely** to get hired compared to cold applicants.
 
 Your referrals turns your cold application into a warm handshake (warm app). And hiring managers? They like warm.
-
+<p align="center">
+  <img src="/images/internFlowchart.png" alt="flowchart diagram" width="100%">
+</p>
 ## Types of Referrals
 
 Important note: Not all referrals are created equal. Here's the rundown:
