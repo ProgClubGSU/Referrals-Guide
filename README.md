@@ -44,11 +44,12 @@ Make sure that you have a good linkedin and resume first!
 ### Step 1: **Grow Your Network (Cold Outreach on LinkedIn)**
 This is gonna require Linkedin Premium
 - Send 100+ custom connection requests/notes per week. Linkedin has a weekly cap or they might flag/ban you
-- Target: employees at companies you want to work at
+- Target: employees at companies you want to work at **10-20 connection requests per company**
   - Find a company for today (example google) and search on linkedin "Google Software Engineers"
 - Use filters: alumni, similar age, ethnicity, role
 - Custom Message Formula: Your going to want to change this to be more personalized (detailed examples in future)
   > "Hey [Name], I’m a [School] student interested in [Company]. Saw your path and would love to connect!"
+  > "Hey [Name], I’m majoring in [major] at [School (if they're alumni)]. I saw you were at [Company] and hoping to learn from someone ahead of me in their journey"
 
 
 ### Step 2: **Set Up the Call (Informational Interview)**
@@ -144,7 +145,7 @@ Bonus: Create a Google Doc template they can use to copy/paste into the referral
 
 This is why it works. Most people never even ask.
 
-## 💡 The Golden Goose Mentality
+## 💡 The Mentality
 
 Referrals aren’t a one-time play. You’re not digging for gold, you’re casting a web. Week after week. Company after company.
 
